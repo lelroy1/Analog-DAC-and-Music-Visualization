@@ -1,0 +1,5 @@
+https://www.amazon.com/LILYGO-T-Display-S3-ESP32-S3-Development-Soldered/dp/B0BF542H39?crid=3290DETI0L7WU&dib=eyJ2IjoiMSJ9.qsWNfTaLYwqWNfC6FCIVS_uIwlWWM8Q5bwAoj0WzchTVY1RvwHE2nYzohR0xKYQwD1s_3F3iVyggk3K8bFY2N9B88vI_y_p4T8bx_VIQ_THepN3NLlaM2EHhwAeqPwGQ8p7TCici36OpFeWUvCcelOk89IXN2B5vF7f8XRC8HrypjULYiK_7yKDWib2c-Fwe7DGBQMG7uvLWuw46Rn1YixzTf7dL5XoPo1ofvOjFbC8.dL-jVnQo8q_KqGa35uy68qq3xrdAzXQsP7XOdqZFIDI&dib_tag=se&keywords=t%2Bdisplay%2Bs3&qid=1717474492&sprefix=t%2Bdisplay%2Bs%2Caps%2C266&sr=8-1&th=1&linkCode=sl1&tag=chrisparkerte-20&linkId=70273aeb8f8691273cf8a684e77ba306&language=en_US&ref_=as_li_ss_tl 
+This screen is eh: I dont want to have to use a microcontroller to drive the display then another microcontroller for my visualization/dac
+
+https://www.amazon.com/iFi-Audio-03111014-0004-Power-Supply/dp/B0C3BNMHG7
+Power connector
